@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/35106038/README.md)
-# profile<!-- Banner com o degradê da CAS (#1A7CFF → #18C6F0 → #1FE07A) -->
+<!-- Banner com o degradê da CAS (#1A7CFF → #18C6F0 → #1FE07A) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A7CFF,50:18C6F0,100:1FE07A&height=220&section=header&text=CAS%20Tecnologia&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Time%20de%20Dados&descSize=22&descAlignY=58&animation=fadeIn" alt="CAS Tecnologia" width="100%"/>
 </p>
