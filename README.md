@@ -93,12 +93,6 @@ flowchart LR
     <td align="center" width="33%"><a href="https://github.com/marciogalvao-cas"><img src="https://github.com/marciogalvao-cas.png" width="90" style="border-radius:50%"/><br/><b>Marcio</b></a><br/><sub>Engenharia de dados</sub></td>
     <td align="center" width="33%"><a href="https://github.com/willianadolpho-ai"><img src="https://github.com/willianadolpho-ai.png" width="90" style="border-radius:50%"/><br/><b>Willian</b></a><br/><sub>Engenharia de dados</sub></td>
   </tr>
-  <!-- Rank de cada um (github-readme-stats), nas cores da CAS; fundo transparente para os temas claro e escuro -->
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=cdw-adriano&show_icons=true&hide_title=true&hide_border=true&hide=stars,contribs&rank_icon=github&bg_color=00000000&title_color=1A7CFF&icon_color=00B140&ring_color=18C6F0&text_color=858585" alt="Rank do Adriano" width="100%"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=marciogalvao-cas&show_icons=true&hide_title=true&hide_border=true&hide=stars,contribs&rank_icon=github&bg_color=00000000&title_color=1A7CFF&icon_color=00B140&ring_color=18C6F0&text_color=858585" alt="Rank do Marcio" width="100%"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=willianadolpho-ai&show_icons=true&hide_title=true&hide_border=true&hide=stars,contribs&rank_icon=github&bg_color=00000000&title_color=1A7CFF&icon_color=00B140&ring_color=18C6F0&text_color=858585" alt="Rank do Willian" width="100%"/></td>
-  </tr>
 </table>
 
 ---
